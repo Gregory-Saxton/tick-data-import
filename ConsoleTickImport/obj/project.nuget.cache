@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/W6rKnpePqVwmgd2PFxPOcoIj6qTtbtZLy33l1P5D0OJMo6Tfs7oslkEQ6HG8REc1xJpORBhpKTNUcUB1PzG0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sdgre\\Documents\\Github\\ConsoleTickImport\\ConsoleTickImport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sdgre\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\sdgre\\.nuget\\packages\\postgresqlcopyhelper\\2.8.0\\postgresqlcopyhelper.2.8.0.nupkg.sha512",
+    "C:\\Users\\sdgre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

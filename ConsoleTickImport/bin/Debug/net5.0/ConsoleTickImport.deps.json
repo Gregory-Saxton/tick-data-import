@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleTickImport/1.0.0": {
+        "dependencies": {
+          "Npgsql": "5.0.4",
+          "PostgreSQLCopyHelper": "2.8.0"
+        },
+        "runtime": {
+          "ConsoleTickImport.dll": {}
+        }
+      },
+      "Npgsql/5.0.4": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0"
+        },
+        "runtime": {
+          "lib/net5.0/Npgsql.dll": {
+            "assemblyVersion": "5.0.4.0",
+            "fileVersion": "5.0.4.0"
+          }
+        }
+      },
+      "PostgreSQLCopyHelper/2.8.0": {
+        "dependencies": {
+          "Npgsql": "5.0.4"
+        },
+        "runtime": {
+          "lib/netstandard2.1/PostgreSQLCopyHelper.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.6.0": {}
+    }
+  },
+  "libraries": {
+    "ConsoleTickImport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Npgsql/5.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wuJUsrhOKaR41ZB9Ecw9ZEpQzMQ5bRahl7w+pt4noVMDkDPbw4cMHV8UfNKeZSPLXaN4yWXPR2QgJ+2vG/85VQ==",
+      "path": "npgsql/5.0.4",
+      "hashPath": "npgsql.5.0.4.nupkg.sha512"
+    },
+    "PostgreSQLCopyHelper/2.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AUABpBJg+stHcz92D3ZMSIRAeMm0vxCA8+7AHGRSuOnycfSquuA6wLaSNTs2wQ9JrzgcGblgo6dyIK5oyxt53w==",
+      "path": "postgresqlcopyhelper/2.8.0",
+      "hashPath": "postgresqlcopyhelper.2.8.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HxozeSlipUK7dAroTYwIcGwKDeOVpQnJlpVaOkBz7CM4TsE5b/tKlQBZecTjh6FzcSbxndYaxxpsBMz+wMJeyw==",
+      "path": "system.runtime.compilerservices.unsafe/4.6.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    }
+  }
+}
